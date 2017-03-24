@@ -1,7 +1,5 @@
 package abs.controller;
 
-import java.util.Scanner;
-
 public class AbstractController 
 {
 	public void start()
